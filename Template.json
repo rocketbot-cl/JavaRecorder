@@ -1,0 +1,29 @@
+{
+  "project": {
+    "profile": {
+      "name": "RocketBot",
+      "description": ""
+    },
+    "commands": [
+      {
+        "father": "module",
+        "command": "{\"module_name\":\"JavaApp Control\",\"module\":\"JavaScope\",\"Selector\":\"{'title':'Titulodelaventana'}\"}",
+        "option": "",
+        "var": "",
+        "index": 0,
+        "group": "scripts",
+        "execute": 2,
+        "if": "",
+        "children": [],
+        "else": [],
+        "id": "b24a8c0c-c1cc-1cc1-6a55-318dda9352c0",
+        "mode_live": true,
+        "getvar": "",
+        "screenshot": "",
+        "img": ""
+      }
+    ],
+    "vars": [],
+    "ifs": []
+  }
+}
