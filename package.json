@@ -2,7 +2,7 @@
     "name": "JavaRecorder",
     "author":"Nicolás Liendro",
     "description": "Grabador de aplicaciones Java",
-    "version":"0.2",
+    "version":"0.1",
     "license": "MIT",
     "homepage":"http://rocketbot.co/",
     "linux": false,
