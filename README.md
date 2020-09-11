@@ -1,4 +1,4 @@
-# Java Recorder
+# Java Recorder (BETA)
 With Java Recorder you can record clicks to automate applications developed in Java.
 
 <img src="https://i.imgur.com/aOGqPqL.png"/>
