@@ -1,4 +1,4 @@
-# Java Recorder (BETA)
+# Java Recorder
 With Java Recorder you can record clicks to automate applications developed in Java.
 
 <img src="https://i.imgur.com/aOGqPqL.png"/>
@@ -40,6 +40,10 @@ You only have to run the `__init__.py` file: :
 ```
 python __init__.py
 ```
+
+## Updates
+
+- 5/11/2020 - Add a new way to find Java components.
 
 ## Built With
 
