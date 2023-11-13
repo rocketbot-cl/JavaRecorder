@@ -7,7 +7,7 @@
     "commands": [
       {
         "father": "module",
-        "command": "{\"module_name\":\"JavaApp Control\",\"module\":\"JavaScope\",\"Selector\":\"{'title':'Titulodelaventana'}\"}",
+        "command": "{\"module_name\":\"JavaAppControl\",\"module\":\"JavaScope\",\"Selector\":\"{'title':'Titulodelaventana'}\"}",
         "option": "",
         "var": "",
         "index": 0,
