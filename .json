@@ -1,0 +1,46 @@
+{
+    "project": {
+        "profile": {
+            "name": "Rocketbot",
+            "description": ""
+        },
+        "commands": [
+            {
+                "father": "module",
+                "command": "{\"module_name\": \"JavaAppControl\", \"module\": \"JavaScope\", \"Selector\": \"{\\\"title\\\": \\\"Mineria de Datos\\\"}\"}",
+                "option": "",
+                "var": "",
+                "index": 0,
+                "group": "scripts",
+                "execute": 2,
+                "if": "",
+                "children": [],
+                "else": [],
+                "id": "6d1afa3f-6b46-4cc1-8d80-5002b348b365",
+                "mode_live": true,
+                "getvar": "",
+                "screenshot": "",
+                "img": ""
+            },
+            {
+                "father": "module",
+                "command": "{\"module_name\": \"JavaAppControl\", \"module\": \"setClick\", \"Selector\": \"{\\\"title\\\": \\\"Mineria de Datos\\\", \\\"indices\\\": [10, 0, 1, 0], \\\"component\\\": {\\\"name\\\": \\\"Agregar\\\", \\\"role\\\": \\\"push button\\\", \\\"index\\\": 10}}\"}",
+                "option": "",
+                "var": "",
+                "index": 0,
+                "group": "scripts",
+                "execute": 2,
+                "if": "",
+                "children": [],
+                "else": [],
+                "id": "f91565bb-d561-444d-8160-a21495317230",
+                "mode_live": true,
+                "getvar": "",
+                "screenshot": "",
+                "img": ""
+            }
+        ],
+        "vars": [],
+        "ifs": []
+    }
+}
